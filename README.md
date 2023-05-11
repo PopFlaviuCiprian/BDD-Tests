@@ -1,6 +1,6 @@
 - In this project we test the Login functionality on the https://demo.nopcommerce.com/login web page, using negative and positive tests
 - We use different Scenarios and a Scenario Outline and we use Gherkin syntax
-- After all tests are done we genereate a html report
+- After all tests are done we generate a html report
 - We need to install :
 - pip install behave-html-formatter
 - pip install webdriver-manager
